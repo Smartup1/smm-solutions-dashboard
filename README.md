@@ -1,3 +1,5 @@
+# SMM Solutions - Control Dashboard
+
 Este é o front-end do dashboard administrativo! Abaixo você vai encontrar as instruções de como executá-lo.
 
 ## Considerações
