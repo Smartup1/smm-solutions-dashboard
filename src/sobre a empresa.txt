@@ -1,0 +1,79 @@
+CONTROLADORES LÓGICOS PROGRAMÁVEIS
+ABB
+ALTUS
+ATIVA
+MITSUBISHI
+OMRON
+SIEMENS SCHNEIDER
+REXROTH
+ALERTON
+HONEYWELL
+SMM Solution
+Com 8 anos de experiência no mercado, a SMM Solution é especializada em automação de sistemas elétricos, projetos elétricos, montagem de máquinas, facilities e fornecimento de mão de obra altamente qualificada para a indústria e o comércio.
+Nosso compromisso é oferecer soluções completas e personalizadas, sempre com foco em eficiência, inovação e custo-benefício, atendendo às necessidades específicas de cada cliente.
+A missão da SMM Solution é entregar produtos e serviços competitivos em toda a cadeia corporativa, desenvolvendo projetos sob medida que garantam excelência, confiabilidade e qualidade em cada etapa do processo.
+Com uma equipe especializada e infraestrutura moderna, a SMM Solution se posiciona como parceira estratégica para empresas que buscam otimização de processos, segurança operacional e suporte técnico de alto nível.
+Interfaces Operacionais (IHMS)
+ROCKWELL
+ALTUS
+SIEMENS
+SCHNEIDER
+EBI-HONEYWELL
+
+REDES DE COMUNICAÇÃO
+AS-I
+ETHERNET
+FIELDBUS
+FOUNDATION
+PROFITBUS DP E PA
+MODBUS RTU OU TCP-IP
+Interfaces Homem-Máquina (IHM)
+
+As Interfaces Homem-Máquina (IHM), também chamadas de HMI (Human-Machine Interface), são dispositivos ou softwares que permitem a interação entre o operador e o sistema de automação industrial.
+Elas servem como meio de supervisão, monitoramento e comando dos processos controlados por CLPs, DCS ou outros controladores.
+
+Funções principais da IHM:
+
+Visualização de variáveis de processo em tempo real (temperatura, pressão, velocidade, estados de motores etc.).
+Envio de comandos de operação (ligar/desligar equipamentos, alterar setpoints).
+Geração de alarmes e avisos operacionais.
+Registro de dados (históricos, relatórios de produção, estatísticas).
+Diagnóstico de falhas e manutenção preventiva.
+
+As IHMs podem variar desde painéis simples com botões e LEDs, até telas gráficas touch screen ou softwares SCADA instalados em computadores industriais.
+Interfaces Homem-Máquina (IHM)
+
+As Interfaces Homem-Máquina (IHM), também chamadas de HMI (Human-Machine Interface), são dispositivos ou softwares que permitem a interação entre o operador e o sistema de automação industrial.
+Elas servem como meio de supervisão, monitoramento e comando dos processos controlados por CLPs, DCS ou outros controladores.
+
+Funções principais da IHM:
+
+Visualização de variáveis de processo em tempo real (temperatura, pressão, velocidade, estados de motores etc.).
+Envio de comandos de operação (ligar/desligar equipamentos, alterar setpoints).
+Geração de alarmes e avisos operacionais.
+Registro de dados (históricos, relatórios de produção, estatísticas).
+Diagnóstico de falhas e manutenção preventiva.
+
+As IHMs podem variar desde painéis simples com botões e LEDs, até telas gráficas touch screen ou softwares SCADA instalados em computadores industriais.
+                                      Arquitetura de Comunicação
+A integração entre IHM e CLP pode seguir diferentes arquiteturas:
+
+Ponto a Ponto: Conexão direta entre CLP e IHM.
+Rede de Campo: Vários CLPs, IHMs e sensores/atuadores interligados.
+Ethernet Industrial: Permite supervisão remota, integração com banco de dados e sistemas de gestão.
+Arquitetura Cliente-Servidor: IHMs e supervisórios SCADA acessam informações de múltiplos controladores centralizados.
+
+Benefícios Técnicos da IHM em Rede
+Melhor visibilidade e controle do processo.
+Redução de erros humanos, com alarmes e feedback visual.
+Tomada de decisão rápida baseada em dados em tempo real.
+Integração vertical com sistemas MES/ERP (Indústria 4.0).
+Maior flexibilidade para expansão e manutenção.
+As IHMs e suas redes de comunicação representam o elo entre o operador e o processo automatizado. A eficiência da comunicação entre IHM e CLP garante segurança, confiabilidade e produtividade nos ambientes industriais. A escolha do protocolo e da arquitetura de rede deve considerar requisitos de velocidade, confiabilidade, interoperabilidade e custo.
+ Sistema de Detecção e Alarme de Incêndio (SDAI) deve ser responsável pela análise técnica e projeto do sistema, a instalação e integração dos equipamentos, a programação e configuração dos dispositivos e centrais, a realização de testes e comissionamento, e a manutenção preventiva e corretiva do sistema, garantindo seu funcionamento eficaz e conforme as normas técnicas e exigências legais. 
+ Sistema de Detecção e Alarme de Incêndio (SDAI) deve ser responsável pela análise técnica e projeto do sistema, a instalação e integração dos equipamentos, a programação e configuração dos dispositivos e centrais, a realização de testes e comissionamento, e a manutenção preventiva e corretiva do sistema, garantindo seu funcionamento eficaz e conforme as normas técnicas e exigências legais. 
+CNPJ:Nº47.278.463/0001-83
+GMAIL:smmsolutionsp@gmail.com
+CEL:1999227628
+Campinas-Jd-Leonor
+CEP-13041-265
