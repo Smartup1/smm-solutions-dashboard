@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gray-50 text-gray-900`}
       >
-        {/* Header */}
+        {/* Header Global */}
         <header className="w-full bg-white shadow-md fixed top-0 left-0 z-50">
           <div className="max-w-6xl mx-auto flex justify-between items-center p-4 sm:p-6">
             <div className="flex items-center gap-3">
@@ -37,10 +37,10 @@ export default function RootLayout({ children }) {
           </div>
         </header>
 
-        {/* Conteúdo principal */}
+        {/* Conteúdo da página */}
         <main className="pt-28">{children}</main>
 
-        {/* Footer */}
+        {/* Footer Global */}
         <footer className="mt-20 border-t border-gray-200 pt-6 text-center text-sm text-gray-500">
           © {new Date().getFullYear()} SMM Solution Automação. Todos os direitos reservados.
         </footer>
